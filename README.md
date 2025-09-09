@@ -1,4 +1,4 @@
-# 🤖 AI-Insightly
+# AI Insightly ✨
 
 **AI-Insightly** — A focused web app that works like a lightweight AI assistant, but instead of searching the entire web, it explores and answers from a **specific dataset** you provide.
 
@@ -11,6 +11,7 @@
 
 AI-Insightly allows you to interact with your own dataset using a simple **chat-style interface**.  
 You can ask questions, explore insights, and get context-aware answers — all powered by **JavaScript** in the browser, with no backend required.
+Your smart assistant that helps you search, organize, and analyze your own data. It focuses on your content only, providing clear insights, useful summaries, and accurate answers — without the noise of the entire web.
 
 ---
 
@@ -18,11 +19,17 @@ You can ask questions, explore insights, and get context-aware answers — all p
 
 ![AI-Insightly screenshot](assets/screenshot01.png)
 
+![AI-Insightly screenshot](assets/screenshot02.png)
+
+![AI-Insightly screenshot](assets/screenshot03.png)
+
+![AI-Insightly screenshot](assets/screenshot04.png)
+
 ---
 
 ## Explanation of use
 
-1. **Upload Dataset** — load your own JSON dataset into the app.
+1. **Upload Dataset** — load your own JSON dataset into the app. (Change Data)
 2. **Ask Questions** — type your query in natural language.
 3. **Get Insights** — the app searches and summarizes answers from your dataset.
 4. **Clear Chat** — reset the session and start over.
